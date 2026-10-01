@@ -209,3 +209,381 @@ See [ATTRIBUTION.md](./ATTRIBUTION.md) for the source snapshot details and licen
 ## License
 
 The curation and arrangement in this repository are released under [CC BY-SA 4.0](./LICENSE). Linked projects, documentation, logos, and whitepapers remain under their respective owners’ licenses.
+
+## Extended Crypto Knowledge Map (Version 2)
+
+> This section expands the original curated project list into a practical research map: papers, standards, token data, explorers, APIs, security, mining, trading, regulation, education, NFTs, real-world assets, and institutional crypto.
+
+Use the links as a starting point and verify important claims at primary sources. Data providers may use different definitions, chain coverage, update schedules, and methodology. A listing is not an endorsement, investment recommendation, safety guarantee, or legal conclusion.
+
+### Research workflow
+
+1. Start with the official project or institution. 2. Read the documentation and paper/specification. 3. Confirm the source code, license, release activity, and security history. 4. Inspect chain-specific data in an explorer. 5. Cross-check market, DeFi, holder, unlock, and derivatives information across independent providers. 6. Record the verification date in your own research notes.
+
+### Networks & scaling
+
+- **[Arbitrum](https://arbitrum.io)** — Ethereum L2 optimistic-rollup ecosystem.
+- **[Optimism](https://www.optimism.io)** — Ethereum L2 and OP Stack ecosystem.
+- **[Base](https://base.org)** — Ethereum L2 incubated by Coinbase.
+- **[zkSync](https://zksync.io)** — ZK-rollup scaling ecosystem.
+- **[Starknet](https://www.starknet.io)** — STARK-based Ethereum L2.
+- **[Celestia](https://celestia.org)** — Modular data-availability network.
+- **[EigenLayer](https://www.eigenlayer.xyz)** — Ethereum restaking and actively validated services.
+- **[Lightning Network](https://lightning.network)** — Bitcoin payment-channel network.
+- **[Liquid Network](https://liquid.net)** — Bitcoin sidechain and settlement network.
+- **[Aptos](https://aptosfoundation.org)** — Move-based smart-contract network.
+- **[Injective](https://injective.com)** — Interoperable finance-focused blockchain.
+- **[Kaspa](https://kaspa.org)** — Proof-of-work blockDAG network.
+
+### Token data & discovery
+
+- **[Etherscan Tokens](https://etherscan.io/tokens)** — Ethereum token directory, contracts, holders and transfers.
+- **[BscScan Tokens](https://bscscan.com/tokens)** — BNB Smart Chain token directory and explorer.
+- **[Arbiscan Tokens](https://arbiscan.io/tokens)** — Arbitrum token directory and explorer.
+- **[Basescan Tokens](https://basescan.org/tokens)** — Base token directory and explorer.
+- **[Solscan Tokens](https://solscan.io/tokens)** — Solana token directory and explorer.
+- **[CoinGecko](https://www.coingecko.com)** — Market data, categories and asset directory.
+- **[CoinMarketCap](https://coinmarketcap.com)** — Market data, rankings and token pages.
+- **[CryptoCompare](https://www.cryptocompare.com)** — Market data and crypto APIs.
+- **[CoinPaprika](https://coinpaprika.com)** — Asset data, markets and API.
+- **[CoinGlass](https://www.coinglass.com)** — Derivatives, open interest, funding and liquidations.
+- **[TradingView Crypto](https://www.tradingview.com/markets/cryptocurrencies/)** — Charts and market analysis.
+- **[Token Unlocks](https://token.unlocks.app)** — Unlock and vesting schedules.
+- **[Bubblemaps](https://bubblemaps.io)** — Visual token-holder and wallet-cluster analysis.
+
+### DeFi data & analytics
+
+- **[DeFiLlama](https://defillama.com)** — TVL, stablecoins, yields, bridges and protocols.
+- **[DEX Screener](https://dexscreener.com)** — DEX pairs, liquidity and token discovery.
+- **[GeckoTerminal](https://www.geckoterminal.com)** — DEX pools and on-chain market data.
+- **[L2BEAT](https://l2beat.com)** — Ethereum L2 risk, TVL and technology analysis.
+- **[RWA.xyz](https://app.rwa.xyz)** — Tokenized real-world asset data.
+- **[Token Terminal](https://tokenterminal.com)** — Protocol fundamentals and financial metrics.
+- **[Dune](https://dune.com)** — Community blockchain analytics and SQL dashboards.
+- **[Nansen](https://www.nansen.ai)** — Wallet labeling and on-chain intelligence.
+- **[Arkham](https://arkhamintelligence.com)** — On-chain entity and wallet intelligence.
+- **[Glassnode](https://glassnode.com)** — On-chain and market analytics.
+
+### Explorers & chain data
+
+- **[Mempool.space](https://mempool.space)** — Bitcoin mempool, fees and blocks.
+- **[Blockchair](https://blockchair.com)** — Multi-chain explorer and API.
+- **[Blockscout](https://www.blockscout.com)** — Open-source EVM explorer.
+- **[OKLink](https://www.oklink.com)** — Multi-chain explorer and data.
+- **[Subscan](https://subscan.io)** — Polkadot and Substrate explorer.
+- **[StellarExpert](https://stellar.expert)** — Stellar explorer and asset data.
+- **[XRPScan](https://xrpscan.com)** — XRP Ledger explorer.
+- **[Cardanoscan](https://cardanoscan.io)** — Cardano explorer.
+
+### Papers & cryptography
+
+- **[Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf)** — Peer-to-peer electronic cash.
+- **[Ethereum whitepaper](https://ethereum.org/en/whitepaper/)** — General-purpose smart-contract platform.
+- **[IACR ePrint Archive](https://eprint.iacr.org)** — Cryptography research papers.
+- **[arXiv Cryptography](https://arxiv.org/list/cs.CR/recent)** — Open research preprints.
+- **[Stanford Blockchain Research](https://crypto.stanford.edu)** — Cryptography and blockchain research.
+- **[MIT Digital Currency Initiative](https://dci.mit.edu)** — Digital-currency research.
+- **[Cambridge Centre for Alternative Finance](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/)** — Digital-asset and alternative-finance research.
+
+### Standards & specifications
+
+- **[Bitcoin BIPs](https://github.com/bitcoin/bips)** — Bitcoin Improvement Proposals.
+- **[Ethereum EIPs](https://eips.ethereum.org)** — Ethereum Improvement Proposals and ERCs.
+- **[ERC-4337](https://eips.ethereum.org/EIPS/eip-4337)** — Account abstraction standard.
+- **[Cosmos IBC](https://ibcprotocol.dev)** — Inter-blockchain communication standard.
+- **[W3C DID Core](https://www.w3.org/TR/did-core/)** — Decentralized identifiers standard.
+- **[W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model-2.0/)** — Verifiable credentials standard.
+- **[CAIP](https://chainagnostic.org)** — Chain-agnostic identifiers and interfaces.
+
+### Developer infrastructure
+
+- **[Remix](https://remix.ethereum.org)** — Browser Solidity IDE.
+- **[Tenderly](https://tenderly.co)** — Smart-contract simulation and debugging.
+- **[The Graph](https://thegraph.com)** — Blockchain indexing protocol.
+- **[Alchemy](https://www.alchemy.com)** — RPC and developer APIs.
+- **[Infura](https://www.infura.io)** — Blockchain RPC and APIs.
+- **[QuickNode](https://www.quicknode.com)** — Managed node infrastructure.
+- **[Moralis](https://moralis.io)** — Web3 APIs and data.
+- **[WalletConnect](https://walletconnect.network)** — Wallet-to-app connectivity protocol.
+- **[Safe](https://safe.global)** — Multisignature smart-account platform.
+- **[Wormhole](https://wormhole.com)** — Cross-chain messaging protocol.
+
+### Security & scam protection
+
+- **[OpenZeppelin](https://www.openzeppelin.com)** — Smart-contract libraries and security.
+- **[Trail of Bits](https://www.trailofbits.com)** — Security research and tools.
+- **[Immunefi](https://immunefi.com)** — Web3 bug-bounty platform.
+- **[Revoke.cash](https://revoke.cash)** — Token approval management.
+- **[Chainabuse](https://www.chainabuse.com)** — Crypto scam and abuse reporting.
+- **[SlowMist](https://www.slowmist.com)** — Blockchain security research.
+- **[REKT Database](https://rekt.news/leaderboard/)** — DeFi exploit archive.
+- **[Scam Sniffer](https://www.scamsniffer.io)** — Wallet-drainer and phishing research.
+
+### Mining, staking & validators
+
+- **[Mining Pool Stats](https://miningpoolstats.stream)** — Mining-pool and hashrate data.
+- **[Staking Rewards](https://www.stakingrewards.com)** — Staking and validator data.
+- **[Beaconcha.in](https://beaconcha.in)** — Ethereum validator explorer.
+- **[Rated Network](https://www.rated.network)** — Ethereum staking infrastructure data.
+- **[Bitcoin Mining Council](https://bitcoinminingcouncil.com)** — Bitcoin mining research and disclosures.
+
+### Exchanges & trading
+
+- **[CCData Exchange Benchmark](https://ccdata.io/research/exchange-benchmark)** — Exchange market-structure research.
+- **[Kraken API](https://docs.kraken.com/api/)** — Exchange API documentation.
+- **[Coinbase Developer Platform](https://docs.cdp.coinbase.com)** — Exchange and on-chain developer APIs.
+- **[Uniswap](https://uniswap.org)** — Decentralized exchange protocol.
+- **[1inch](https://1inch.io)** — DEX aggregation protocol.
+
+### NFTs, gaming & identity
+
+- **[OpenSea](https://opensea.io)** — NFT marketplace.
+- **[Magic Eden](https://magiceden.io)** — Multi-chain NFT marketplace.
+- **[NFTScan](https://www.nftscan.com)** — NFT explorer and API.
+- **[ENS](https://ens.domains)** — Decentralized naming.
+- **[Decentraland](https://decentraland.org)** — Virtual world.
+- **[IPFS](https://ipfs.tech)** — Content-addressed storage.
+
+### Real-world assets & institutional crypto
+
+- **[BIS Innovation Hub](https://www.bis.org/about/bisih/topics/cbdc.htm)** — Central-bank innovation research.
+- **[Project Guardian](https://www.mas.gov.sg/schemes-and-initiatives/project-guardian)** — Institutional tokenization initiative.
+- **[Canton Network](https://www.canton.network)** — Institutional privacy-enabled blockchain network.
+- **[Ondo Finance](https://ondo.finance)** — Tokenized financial products.
+- **[Centrifuge](https://centrifuge.io)** — On-chain real-world assets.
+
+### Government & regulation
+
+- **[Atlantic Council CBDC Tracker](https://www.atlanticcouncil.org/cbdctracker/)** — Global CBDC project tracker.
+- **[BIS CBDC research](https://www.bis.org/topic/cbdc.htm)** — Central-bank digital-currency research.
+- **[FATF Virtual Assets](https://www.fatf-gafi.org/en/topics/virtual-assets.html)** — AML and virtual-asset guidance.
+- **[EU MiCA](https://finance.ec.europa.eu/regulation-and-supervision/financial-services-legislation/markets-crypto-assets-regulation-mica_en)** — European crypto-asset regulation.
+- **[US SEC Crypto](https://www.sec.gov/securities-topics/crypto-assets)** — US securities-regulator resources.
+- **[US CFTC Digital Assets](https://www.cftc.gov/LearnAndProtect/digitalassets)** — US derivatives-regulator resources.
+- **[UK FCA Cryptoassets](https://www.fca.org.uk/consumers/cryptoassets)** — UK consumer and regulatory guidance.
+- **[RBI Digital Rupee](https://www.rbi.org.in)** — India central-bank digital-currency information.
+
+### Education & media
+
+- **[Ethereum Developer Docs](https://ethereum.org/en/developers/docs/)** — Official Ethereum learning path.
+- **[Bitcoin Developer Guide](https://developer.bitcoin.org/devguide/)** — Bitcoin protocol developer guide.
+- **[CryptoZombies](https://cryptozombies.io)** — Interactive Solidity learning.
+- **[Alchemy University](https://www.alchemy.com/university)** — Blockchain development courses.
+- **[Ethereum.org Learn](https://ethereum.org/en/learn/)** — Beginner Ethereum education.
+- **[Chainlink Education](https://chain.link/education)** — Oracle and Web3 education.
+- **[a16z Crypto Canon](https://a16zcrypto.com/crypto-canon/)** — Crypto technology reading list.
+
+### Data files
+
+- [`data/resources.csv`](./data/resources.csv) — complete Version 2 resource index.
+- [`data/papers.csv`](./data/papers.csv) — papers, research archives, and standards.
+- [`data/security.csv`](./data/security.csv) — security, scam, exploit, and bug-bounty resources.
+- [`data/regulation.csv`](./data/regulation.csv) — public-sector, CBDC, and regulatory resources.
+- [`data/datasets.csv`](./data/datasets.csv) — market, DeFi, explorer, validator, and mining data resources.
+
+### What this repository does not claim
+
+- It does not contain every token, chain, paper, website, or jurisdictional rule. New projects and links appear continuously.
+- It does not certify that a token is legitimate, safe, solvent, compliant, decentralized, or profitable.
+- It does not publish contract addresses as a universal truth. Addresses are chain-specific and should be copied only from official documentation or verified explorer pages.
+- It does not replace legal, tax, security, or investment advice.
+## README Archive: Origins, Satoshi, Papers, and Source-Code History
+
+This README is the primary human-readable knowledge base for the repository. The CSV files under `data/` are optional machine-readable reference indexes; the explanations, historical links, research links, and source-code map are maintained here.
+
+### 1. Before Bitcoin: the intellectual and technical roots
+
+Bitcoin was not created in isolation. It combined earlier work in digital cash, cryptography, distributed systems, proof-of-work, timestamping, peer-to-peer networking, and cypherpunk privacy engineering.
+
+- **Public-key cryptography:** [Diffie–Hellman New Directions in Cryptography](https://ee.stanford.edu/~hellman/publications/24.pdf) introduced practical public-key ideas; [RSA](https://people.csail.mit.edu/rivest/pubs/RSAPaper.pdf) established a foundational public-key cryptosystem.
+- **Digital cash:** [David Chaum’s digital cash publications](https://chaum.com/publications/) and the [DigiCash history](https://chaum.com/) are important predecessors to anonymous electronic payments.
+- **b-money:** [Wei Dai’s b-money proposal](https://www.weidai.com/bmoney.txt) described an electronic cash system with pseudonymous participants and distributed accounting.
+- **Hashcash:** [Adam Back’s Hashcash paper](https://www.hashcash.org/papers/hashcash.pdf) described proof-of-work as a mechanism to limit abuse and spam.
+- **Bit gold:** [Nick Szabo’s bit gold writings](https://nakamotoinstitute.org/bit-gold/) explored scarce digital objects, proof of work, and decentralized money.
+- **Timestamping:** [Haber and Stornetta’s work on digital documents](https://www.math.columbia.edu/~bayer/papers/Timestamp_BHS.pdf) influenced tamper-evident chains of records.
+- **Merkle trees:** [Ralph Merkle’s tree-signature work](https://merkle.com/papers/Certificates.ps) is part of the data-structure lineage used by blockchains.
+- **Cypherpunk archive:** The [Cypherpunks mailing-list archive](https://cypherpunks.venona.com/) contains historical discussions about privacy, anonymous communication, digital cash, and cryptographic autonomy.
+- **Cryptography research:** Search the [IACR ePrint Archive](https://eprint.iacr.org/), [arXiv cryptography](https://arxiv.org/list/cs.CR/recent), and [Google Scholar](https://scholar.google.com/) for peer-reviewed and preprint research. Always distinguish a preprint from peer-reviewed work.
+
+### 2. Satoshi Nakamoto primary-source archive
+
+“Satoshi Nakamoto” is the pseudonym used by the author or authors of the Bitcoin design and early implementation. The identity has not been established by the primary historical record. This repository treats the following as historical sources, not as proof of identity claims.
+
+#### Whitepaper and original announcement
+
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) — the original whitepaper published under the Satoshi Nakamoto name.
+- [Satoshi Nakamoto Institute whitepaper archive](https://nakamotoinstitute.org/bitcoin/)
+- [Original Bitcoin announcement on the Cryptography mailing list](https://satoshi.nakamotoinstitute.org/emails/cryptography/)
+- [Metzdowd cryptography mailing-list archive](https://www.mail-archive.com/cryptography@metzdowd.com/)
+- [Satoshi Nakamoto Institute email archive](https://satoshi.nakamotoinstitute.org/emails/)
+- [Satoshi Nakamoto Institute writings archive](https://satoshi.nakamotoinstitute.org/)
+
+#### Early forum and community record
+
+- [BitcoinTalk topic 5: Bitcoin open-source implementation](https://bitcointalk.org/index.php?topic=5.0)
+- [BitcoinTalk Satoshi posts archive](https://satoshi.nakamotoinstitute.org/posts/)
+- [P2P Foundation Satoshi profile and posts](https://p2pfoundation.ning.com/profile/SatoshiNakamoto)
+- [The Genesis Block](https://nakamotoinstitute.org/the-genesis-block/)
+- [Early Bitcoin Wiki archive](https://en.bitcoin.it/wiki/Category:History)
+- [Bitcoin Wiki history pages](https://en.bitcoin.it/wiki/History)
+
+#### Early people and context
+
+- [Hal Finney’s “Running bitcoin” post](https://bitcointalk.org/index.php?topic=1647.0)
+- [Hal Finney’s archived writing](https://nakamotoinstitute.org/hal-finney/)
+- [Laszlo Hanyecz and the early Bitcoin development record](https://bitcointalk.org/index.php?topic=137.0)
+- [Bitcoin early-development discussions](https://bitcointalk.org/index.php?board=6.0)
+
+Use caution with unattributed screenshots, social-media claims, documentaries, and identity theories. Prefer signed messages, archived mailing-list posts, source commits, contemporaneous forum records, and documents with a verifiable provenance.
+
+### 3. Original Bitcoin source code and later repositories
+
+The original Bitcoin implementation evolved into Bitcoin Core. The links below separate historical snapshots from actively maintained implementations.
+
+#### Bitcoin Core and historical releases
+
+- [Bitcoin Core repository](https://github.com/bitcoin/bitcoin)
+- [Bitcoin Core commit history](https://github.com/bitcoin/bitcoin/commits/master/)
+- [Bitcoin Core tags and release snapshots](https://github.com/bitcoin/bitcoin/tags)
+- [Bitcoin Core releases](https://github.com/bitcoin/bitcoin/releases)
+- [Bitcoin Core developer documentation](https://github.com/bitcoin/bitcoin/blob/master/doc/README.md)
+- [Bitcoin Core functional tests](https://github.com/bitcoin/bitcoin/tree/master/test)
+- [Bitcoin Core developer guide](https://developer.bitcoin.org/devguide/)
+- [Bitcoin Core BIPs repository](https://github.com/bitcoin/bips)
+- [Bitcoin Core release notes](https://github.com/bitcoin/bitcoin/tree/master/doc/release-notes)
+- [Bitcoin Core security policy](https://github.com/bitcoin/bitcoin/security/policy)
+- [Bitcoin Core historical source mirror](https://github.com/trottier/original-bitcoin) — useful for studying an early implementation; verify provenance and do not treat a mirror as the canonical project.
+
+#### Bitcoin implementations, libraries, and infrastructure
+
+- [btcd](https://github.com/btcsuite/btcd) — Bitcoin full node implementation in Go.
+- [bitcoinj](https://github.com/bitcoinj/bitcoinj) — Java Bitcoin library.
+- [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) — Rust Bitcoin primitives and libraries.
+- [Bitcoin Development Kit](https://github.com/bitcoindevkit/bdk) — Bitcoin wallet development toolkit.
+- [libbitcoin](https://github.com/libbitcoin/libbitcoin-system) — Bitcoin development toolkit in C++.
+- [Electrs](https://github.com/romanz/electrs) — compact Bitcoin blockchain indexer.
+- [Esplora](https://github.com/Blockstream/esplora) — Blockstream’s explorer backend.
+- [Mempool](https://github.com/mempool/mempool) — Bitcoin mempool and explorer application.
+- [Lightning Network Daemon](https://github.com/lightningnetwork/lnd) — Lightning implementation.
+- [Core Lightning](https://github.com/ElementsProject/lightning) — Lightning implementation.
+- [Eclair](https://github.com/ACINQ/eclair) — Scala Lightning implementation.
+- [Elements](https://github.com/ElementsProject/elements) — sidechain and confidential-asset platform.
+- [Liquid documentation](https://docs.liquid.net/)
+
+### 4. Bitcoin protocol history and standards
+
+- [Bitcoin Improvement Proposals](https://github.com/bitcoin/bips) — proposals, accepted standards, and historical documents.
+- [BIP-0001: BIP purpose and guidelines](https://github.com/bitcoin/bips/blob/master/bip-0001.mediawiki)
+- [BIP-0009: Version bits with timeout and delay](https://github.com/bitcoin/bips/blob/master/bip-0009.mediawiki)
+- [BIP-0032: Hierarchical deterministic wallets](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)
+- [BIP-0039: Mnemonic code](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki)
+- [BIP-0044: Multi-account hierarchy](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki)
+- [BIP-0066: Strict DER signatures](https://github.com/bitcoin/bips/blob/master/bip-0066.mediawiki)
+- [BIP-0141: Segregated Witness](https://github.com/bitcoin/bips/blob/master/bip-0141.mediawiki)
+- [BIP-0143: SegWit signature verification](https://github.com/bitcoin/bips/blob/master/bip-0143.mediawiki)
+- [BIP-0340: Schnorr signatures](https://github.com/bitcoin/bips/blob/master/bip-0340.mediawiki)
+- [BIP-0341: Taproot](https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki)
+- [BIP-0342: Tapscript](https://github.com/bitcoin/bips/blob/master/bip-0342.mediawiki)
+- [Bitcoin Optech](https://bitcoinops.org/) — technical newsletters and upgrade explainers.
+- [Bitcoin Core PRs](https://github.com/bitcoin/bitcoin/pulls) — implementation discussion and review record.
+- [Bitcoin Core issues](https://github.com/bitcoin/bitcoin/issues) — known issues and development discussions.
+
+### 5. Major crypto timeline
+
+- **1976:** Public-key cryptography becomes practical through Diffie–Hellman research.
+- **1980s–1990s:** Digital cash, blind signatures, anonymous communication, and cryptographic privacy research develop through academic and cypherpunk communities.
+- **1997:** Hashcash formalizes proof-of-work for anti-spam and abuse prevention.
+- **1998:** b-money and related proposals describe decentralized digital money.
+- **2005–2008:** Bit gold and other scarce-digital-object ideas develop; the global financial crisis creates a powerful historical context for monetary alternatives.
+- **October 2008:** Bitcoin whitepaper is announced to the cryptography mailing list.
+- **January 2009:** The Bitcoin genesis block is mined and the first public software is released.
+- **2009–2010:** Early node operators, miners, developers, and forum contributors test the network and improve the implementation.
+- **2011–2014:** Alternative cryptocurrencies, exchanges, mining businesses, wallets, and early application platforms emerge.
+- **2015:** Ethereum launches a general-purpose smart-contract platform.
+- **2017:** Bitcoin SegWit activates; Ethereum tokens and initial coin offerings expand rapidly; scaling and governance become central debates.
+- **2018–2019:** Stablecoins, proof-of-stake networks, privacy technologies, and programmable financial applications mature.
+- **2020–2021:** DeFi, automated market makers, liquid staking, NFTs, DAOs, and blockchain gaming gain broad attention.
+- **2022:** Major failures and exploits increase focus on leverage, custody, stablecoin design, bridges, risk management, and proof of reserves.
+- **2023 onward:** Layer-2 scaling, modular blockchains, zero-knowledge systems, tokenized real-world assets, restaking, institutional custody, and regulatory frameworks become major research areas.
+- **Current maintenance rule:** The directory should be refreshed from primary sources. A current price, ranking, or market-cap page is not a substitute for protocol documentation, audited code, governance records, or independent security research.
+
+### 6. Ethereum, smart contracts, and token standards
+
+- [Ethereum repository](https://github.com/ethereum/ethereum-org-website)
+- [go-ethereum](https://github.com/ethereum/go-ethereum)
+- [Ethereum yellow paper](https://ethereum.github.io/yellowpaper/paper.pdf)
+- [Ethereum whitepaper](https://ethereum.org/en/whitepaper/)
+- [Ethereum developer docs](https://ethereum.org/en/developers/docs/)
+- [Ethereum Improvement Proposals](https://eips.ethereum.org/)
+- [ERC-20 fungible token standard](https://eips.ethereum.org/EIPS/eip-20)
+- [ERC-721 non-fungible token standard](https://eips.ethereum.org/EIPS/eip-721)
+- [ERC-1155 multi-token standard](https://eips.ethereum.org/EIPS/eip-1155)
+- [ERC-4337 account abstraction](https://eips.ethereum.org/EIPS/eip-4337)
+- [Solidity](https://github.com/ethereum/solidity)
+- [Vyper](https://github.com/vyperlang/vyper)
+- [Foundry](https://github.com/foundry-rs/foundry)
+- [Hardhat](https://github.com/NomicFoundation/hardhat)
+- [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+- [Ethereum execution-layer specifications](https://github.com/ethereum/execution-specs)
+- [Ethereum consensus specifications](https://github.com/ethereum/consensus-specs)
+
+### 7. Research-paper library by subject
+
+#### Consensus and distributed systems
+
+- [Practical Byzantine Fault Tolerance](https://pmg.csail.mit.edu/papers/osdi99.pdf)
+- [Tendermint consensus](https://github.com/tendermint/tendermint)
+- [Ouroboros proof-of-stake research](https://iohk.io/en/research/library/papers/ouroboros-a-provably-secure-proof-of-stake-blockchain-protocol/)
+- [Algorand consensus research](https://www.algorand.foundation/technology)
+- [Avalanche consensus papers](https://www.avalabs.org/whitepapers)
+
+#### DeFi and market structure
+
+- [Uniswap v2 whitepaper](https://uniswap.org/whitepaper.pdf)
+- [Uniswap v3 whitepaper](https://whitepaper.io/document/Uniswap%20V3%20Whitepaper)
+- [Compound protocol paper](https://compound.finance/documents/Compound.Whitepaper.pdf)
+- [Curve stablecoin pools paper](https://curve.fi/files/crypto-pools-paper.pdf)
+- [Chainlink whitepaper](https://research.chain.link/whitepaper-v2.pdf)
+- [MakerDAO documentation](https://makerdao.com/whitepaper/)
+- [Aave documentation](https://aave.com/docs)
+- [MEV research at Flashbots](https://www.flashbots.net/research)
+
+#### Zero knowledge and privacy
+
+- [Zcash protocol and research](https://z.cash/technology/)
+- [Zcash Sapling protocol specification](https://github.com/zcash/zips)
+- [Monero research lab](https://www.getmonero.org/resources/research-lab/)
+- [Bulletproofs paper](https://eprint.iacr.org/2017/1066)
+- [zk-SNARK research index](https://eprint.iacr.org/search?q=SNARK)
+- [zk-STARK research index](https://eprint.iacr.org/search?q=STARK)
+- [Mimblewimble protocol](https://github.com/mimblewimble/grin-rfcs)
+
+#### Scaling, interoperability, and data availability
+
+- [Cosmos IBC](https://github.com/cosmos/ibc-go)
+- [Polkadot paper and specifications](https://wiki.polkadot.com/learn/learn-architecture/)
+- [Celestia research and documentation](https://docs.celestia.org/)
+- [Optimism specifications](https://github.com/ethereum-optimism/specs)
+- [Arbitrum Nitro](https://github.com/OffchainLabs/nitro)
+- [Starknet documentation](https://docs.starknet.io/)
+- [EigenLayer research](https://www.eigenlayer.xyz/research)
+
+### 8. How to evaluate a crypto link or paper
+
+1. **Source identity:** Is the domain official, and is the GitHub organization linked from the official domain?
+2. **Primary evidence:** Is there a paper, specification, source repository, audit, governance record, or signed release?
+3. **Implementation match:** Does the deployed code match the claimed design? Are contracts verified on the relevant explorer?
+4. **Maintenance:** Are commits, releases, issues, documentation, and security disclosures current?
+5. **Economic clarity:** Are supply, issuance, unlocks, treasury, governance, and concentration documented?
+6. **Security:** Are audits, bug bounties, incident reports, admin keys, upgrade controls, and pause mechanisms disclosed?
+7. **Data quality:** Do multiple providers agree, and do they define TVL, volume, circulating supply, and active users the same way?
+8. **Legal context:** Is the resource describing a protocol, a token, a security, a commodity, a CBDC, or an informational website? These categories have different risks and rules.
+
+### 9. README maintenance policy
+
+- Keep the README as the complete human-readable index and explanation.
+- Keep CSV files as optional reference exports; do not require them to understand the directory.
+- Add the official project link first, then source code, docs, specification/paper, explorer, and data links where available.
+- Add a verification date to future entries when practical.
+- Preserve historical links even when a project is inactive, but label archived, deprecated, superseded, or unmaintained material clearly.
+- Never turn a popularity ranking into a claim of quality, safety, legitimacy, or investment value.
